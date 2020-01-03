@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/js-finance/static/js/main.5687d81e.chunk.js",
+    "main.js.map": "/js-finance/static/js/main.5687d81e.chunk.js.map",
+    "runtime-main.js": "/js-finance/static/js/runtime-main.76eb48b7.js",
+    "runtime-main.js.map": "/js-finance/static/js/runtime-main.76eb48b7.js.map",
+    "static/js/2.44fb5284.chunk.js": "/js-finance/static/js/2.44fb5284.chunk.js",
+    "static/js/2.44fb5284.chunk.js.map": "/js-finance/static/js/2.44fb5284.chunk.js.map",
+    "index.html": "/js-finance/index.html",
+    "precache-manifest.69b36e57f64ee7d762a91e558eb15125.js": "/js-finance/precache-manifest.69b36e57f64ee7d762a91e558eb15125.js",
+    "service-worker.js": "/js-finance/service-worker.js",
+    "static/js/2.44fb5284.chunk.js.LICENSE": "/js-finance/static/js/2.44fb5284.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76eb48b7.js",
+    "static/js/2.44fb5284.chunk.js",
+    "static/js/main.5687d81e.chunk.js"
+  ]
+}
