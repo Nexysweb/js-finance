@@ -19,6 +19,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
+    "lint": "eslint src/",
     "start": "react-scripts start",
     "build": "PUBLIC_URL=/js-finance react-scripts build;rm -rf docs;mv build docs;cp docs/index.html docs/404.html",
     "test": "react-scripts test",
