@@ -1074,6 +1074,16 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
+"@nexys/iban@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@nexys/iban/-/iban-1.0.8.tgz#58f7c7fd3f4d84a4d77d1ff75647839b66fef7f8"
+  integrity sha512-T7RAFXe2ZaSrRVzUvNVyKuoMNz4UuXZI9wqpwrzbnZl0xIqVnl9kfdKEOWVo+3AZO+0HaBHUbvSSGnpnq0ADPA==
+
+"@nexys/swiss-banks@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@nexys/swiss-banks/-/swiss-banks-1.0.3.tgz#9ab6449d763e8d9e02e665811d8d90e59d2be2fa"
+  integrity sha512-UisKOPa34U+rhmOPByQvR9czWrjUHOZ+/Z9JcSwwkMagUpEGFGEBe78Gac1FTnfmDDfxh54mKMLpcn+JGHxu6g==
+
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
